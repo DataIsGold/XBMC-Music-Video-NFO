@@ -1,0 +1,42 @@
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Form1.resources
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Resources.resources
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\bin\Debug\XBMC Music Videos.exe
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\bin\Debug\XBMC Music Videos.pdb
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\bin\Debug\XBMC Music Videos.xml
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.exe
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.xml
+C:\Users\Liam\AppData\Local\Temporary Projects\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.pdb
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.exe
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.xml
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.pdb
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.exe
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.pdb
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.xml
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Form1.resources
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Resources.resources
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.exe.manifest
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.application
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.exe.manifest
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.application
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Debug\ffmpeg.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.pdb
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Form1.resources
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC_Music_Videos.Resources.resources
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.vbproj.GenerateResource.Cache
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\ffmpeg.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.exe.manifest
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.application
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.pdb
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\Debug\XBMC Music Videos.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.TrustInfo.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.exe.manifest
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Debug\XBMC Music Videos.application

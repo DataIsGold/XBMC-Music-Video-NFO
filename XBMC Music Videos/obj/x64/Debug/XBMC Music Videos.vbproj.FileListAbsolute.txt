@@ -1,0 +1,19 @@
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\ffmpeg.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\XBMC Music Videos.exe.manifest
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\XBMC Music Videos.application
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\XBMC Music Videos.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\XBMC Music Videos.pdb
+C:\appz\XBMC Music Videos\XBMC Music Videos\bin\x64\Debug\XBMC Music Videos.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC_Music_Videos.Form1.resources
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC_Music_Videos.Resources.resources
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.vbproj.GenerateResource.Cache
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.TrustInfo.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.exe.manifest
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.application
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.pdb
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\Interop.WMPLib.dll
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.vbproj.ResolveComReference.cache
+C:\Users\probhat\Source\Workspaces\Workspace\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\probhat\Source\Workspaces\Workspace\XBMC Music Videos\XBMC Music Videos\obj\x64\Debug\XBMC Music Videos.vbproj.ResolveComReference.cache

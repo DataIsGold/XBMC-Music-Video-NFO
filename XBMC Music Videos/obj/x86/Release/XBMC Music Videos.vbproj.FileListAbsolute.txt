@@ -1,0 +1,19 @@
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\XBMC Music Videos.exe.manifest
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\XBMC Music Videos.application
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\XBMC Music Videos.exe
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\XBMC Music Videos.pdb
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\XBMC Music Videos.xml
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC_Music_Videos.Form1.resources
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC_Music_Videos.Resources.resources
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.exe.manifest
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.application
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.exe
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.xml
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.pdb
+d:\documents\visual studio 2010\Projects\XBMC Music Videos\XBMC Music Videos\bin\Release\ffmpeg.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.exe
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.xml
+C:\appz\XBMC Music Videos\XBMC Music Videos\obj\x86\Release\XBMC Music Videos.pdb
